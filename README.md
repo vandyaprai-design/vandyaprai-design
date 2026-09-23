@@ -1,30 +1,32 @@
 Hey, I'm Vandya 👋
-Computer & Communication Engineering Student 
+Computer & Communication Engineering Student | AI & Full-Stack Developer
 
-I enjoy building practical software at the intersection of AI, backend systems and user-focused design.
+I build practical applications at the intersection of AI, full-stack development, and user-focused design.
 
-Currently exploring RAG systems, LLM optimization, full-stack development and intelligent applications.
+Currently exploring RAG systems, LLM optimization, intelligent applications, and modern web technologies.
 
 🚀 Featured Projects
-🤖 MachineAssist
+🤖 MachineAssist — RAG-Based Machine Troubleshooting System
 
-RAG-Based Machine Troubleshooting System
+Built as part of VH26 Team Harmony, MachineAssist is an AI-powered troubleshooting assistant that helps factory technicians retrieve machine-specific information and receive grounded troubleshooting guidance.
 
-An AI-powered troubleshooting assistant that retrieves machine-specific information and provides contextual solutions.
+The system combines RAG, hybrid retrieval, ChromaDB, Sentence Transformers, FastAPI, React, and Gemini to retrieve relevant information from machine manuals and generate contextual responses with citations.
 
-Tech: React · FastAPI · ChromaDB · Sentence Transformers · Gemini API
+A key focus is hallucination control and cross-manual disambiguation, using retrieval checks, ambiguity detection, and safety gates.
 
-https://github.com/prathamshetty18/VH26-TEAM_HARMONY
+My contribution: Prompt/UX Writer & Pitch Lead — Led prompt design, UX copy, pitch deck, and live demo scripting.
 
-🧠 Token-Diet
+🔗 View the project →
 
-Intelligent LLM Context Optimization
+🧠 Token-Diet — Intelligent LLM Context Optimization
 
-A system designed to optimize LLM context using relevance ranking, token counting, context compression, and dynamic routing.
+Built as part of DevJams 2026 Team Harmony, Token-Diet is an intelligent system for optimizing LLM context through relevance ranking, token counting, context compression, and dynamic routing.
 
-Tech: Python · FastAPI · Reka API
+The project focuses on reducing unnecessary context while maintaining response quality and improving LLM efficiency.
 
-https://github.com/srjn18/DevJams-26-Team_Harmony
+My contribution: LLM Integration & Evaluation — Worked on LLM integration, routing, and evaluation of optimization, cost, quality, and performance metrics.
+
+🔗 View the project →
 
 🛠️ Tech Stack
 
@@ -48,23 +50,23 @@ Tools
 
 Git · GitHub · VS Code
 
-💡 What I'm Interested In
+💡 Currently Exploring
 
-Artificial Intelligence & LLM applications
+🤖 AI & LLM applications
 
-Retrieval-Augmented Generation
+🔎 Retrieval-Augmented Generation
 
-Full-Stack Development
+🧠 LLM optimization
 
-Backend Systems
+🌐 Full-Stack Development
 
-Human-centered product design
+🎨 Human-centered product design
 
-Building practical solutions to real-world problems
+⚡ Building practical real-world solutions
 
-🏆 Beyond Code
+🏆 Leadership & Activities
 
-ACCESS – Computer & Communication Association
+ACCESS — Computer & Communication Association
 
 Joint Secretary — 2025–2026
 
@@ -72,25 +74,10 @@ Vice Branch Captain — 2026–Present
 
 Contributed to technical initiatives, student activities, and event organization.
 
-I've also represented my college in inter-collegiate and open hackathons, focusing on technical innovation and problem-solving.
+Represented my college in inter-collegiate and open hackathons.
 
 📫 Let's Connect
 
-I'm always interested in building interesting things, collaborating on projects, and learning from other developers.
+I'm always interested in building interesting things, collaborating on projects, and learning something new.
 
 GitHub: @vandyaprai-design
-
-<!--
-**vandyaprai-design/vandyaprai-design** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

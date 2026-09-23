@@ -26,3 +26,13 @@ Planned and scripted the live demo flow, including the sequence of queries used 
 Rehearsed the final demo flow with the team to ensure reliable and clear demonstrations.
 
 🔗 View the project → https://github.com/prathamshetty18/VH26-TEAM_HARMONY
+
+2.Token-Diet — Intelligent LLM Context Optimization
+
+Built as part of DevJams 2026 Team Harmony, Token-Diet is an intelligent system designed to optimize LLM context through relevance ranking, token counting, context compression, and dynamic routing.
+
+The system focuses on reducing unnecessary context while maintaining response quality and improving the efficiency of LLM interactions.
+
+My contribution: Worked on LLM integration and dynamic routing, while evaluating the system across context optimization, token usage, response quality, and performance. Contributed to comparing baseline and optimized execution to assess the effectiveness of the proposed approach.
+
+🔗 View the project → https://github.com/srjn18/DevJams-26-Team_Harmony

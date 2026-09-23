@@ -16,7 +16,7 @@ A key focus is hallucination control and cross-manual disambiguation, using retr
 
 My contribution: Prompt/UX Writer & Pitch Lead — Led prompt design, UX copy, pitch deck, and live demo scripting.
 
-🔗 View the project →
+🔗 View the project → https://github.com/prathamshetty18/VH26-TEAM_HARMONY
 
 🧠 Token-Diet — Intelligent LLM Context Optimization
 
@@ -26,7 +26,7 @@ The project focuses on reducing unnecessary context while maintaining response q
 
 My contribution: LLM Integration & Evaluation — Worked on LLM integration, routing, and evaluation of optimization, cost, quality, and performance metrics.
 
-🔗 View the project →
+🔗 View the project →https://github.com/srjn18/DevJams-26-Team_Harmony
 
 🛠️ Tech Stack
 

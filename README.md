@@ -24,6 +24,8 @@ A system designed to optimize LLM context using relevance ranking, token countin
 
 Tech: Python · FastAPI · Reka API
 
+https://github.com/srjn18/DevJams-26-Team_Harmony
+
 🛠️ Tech Stack
 
 Languages

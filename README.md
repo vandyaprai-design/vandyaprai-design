@@ -14,6 +14,8 @@ An AI-powered troubleshooting assistant that retrieves machine-specific informat
 
 Tech: React · FastAPI · ChromaDB · Sentence Transformers · Gemini API
 
+https://github.com/prathamshetty18/VH26-TEAM_HARMONY
+
 🧠 Token-Diet
 
 Intelligent LLM Context Optimization
